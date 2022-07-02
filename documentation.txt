@@ -1,0 +1,5 @@
+1. pipenv install django 
+2. pipenv shell 
+3. django-admin startproject storefront.
+4. python manage.py runserver
+5. select interpreter for vscode 
